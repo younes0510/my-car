@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+ul{
+    list-style: none;
+}
+.container-fluid img{
+    height: 100px;
+    width: 100px;
+}
+.navbar-brand{
+    font-family:"Italianno" !important;
+    font-size: 3rem !important;
+  
+}
+.saliba img{
+    height: 400px !important;
+    width: 700px !important;
+}
+.container a{
+    text-decoration: none !important;
+    color: white !important;
+   
+
+}
+h5{
+    color: antiquewhite !important;
+}
